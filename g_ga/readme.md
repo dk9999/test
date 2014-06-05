@@ -6,7 +6,7 @@
 
 本镜像的目的，是测试依附于Github的网络传播自由，并为无法访问google code的墙内朋友提供一个替代方案。
 
-<a href="https://github.com/dk9999/test/blob/g_ag/dl_g_ag.md">本镜像整理的greatagent2系列下载地址</a>
+<a href="https://github.com/dk9999/test/tree/master/g_ag/dl_g_ag.md">本镜像整理的greatagent2系列下载地址</a>
 
 ======================
 
@@ -23,7 +23,7 @@
 由于存在自动更新，谷歌code页面的downloads中永远是最新的稳定版。Github中是最新版本。请根据下文说明选择greatagent2-ga/greatagent2-wp/greatagent2-esr版本，最好选择自带火狐浏览器的版本。
 
 <ul>
-  <li><a href="https://github.com/dk9999/test/blob/g_ag/dl_g_ag.md">本镜像整理的greatagent2系列下载地址</a><li>
+  <li><a href="https://github.com/dk9999/test/tree/master/g_ag/dl_g_ag.md">本镜像整理的greatagent2系列下载地址</a><li>
 </ul>
 
 <ul>
