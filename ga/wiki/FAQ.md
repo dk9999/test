@@ -1,6 +1,6 @@
 这是一个镜像项目。镜像项目首页：https://github.com/dk9999/test
 
-goagent网站镜像的主页：https://github.com/dk9999/test/tree/ga
+goagent网站镜像的主页：https://github.com/dk9999/test/tree/master/ga/
 
 原网站查看：https://code.google.com/p/goagent/wiki/FAQ
 
