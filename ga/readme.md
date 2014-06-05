@@ -10,7 +10,7 @@ goagent 3.1.16 正式版下载 https://nodeload.github.com/goagent/goagent/legac
 
 Github上的最新版下载：https://github.com/goagent/goagent/archive/3.0.zip
 
-注：goagent需要自行部署GAE服务端，如果嫌麻烦，可以选择使用预设了公共服务端的<a href="https://github.com/dk9999/test/blob/g_ag/README.md">greatagent</a>项目。
+注：goagent需要自行部署GAE服务端，如果嫌麻烦，可以选择使用预设了公共服务端的<a href="https://github.com/dk9999/test/tree/master/g_ga/README.md">greatagent</a>项目。
 
 =======================
 
@@ -151,7 +151,7 @@ Github上的最新版下载：https://github.com/goagent/goagent/archive/3.0.zip
 </h2>
 <ul>
     <li>
-        <a href="https://github.com/dk9999/test/blob/ga/wiki/InstallGuide.md">
+        <a href="https://github.com/dk9999/test/tree/master/ga/wiki/InstallGuide.md">
             本站镜像页面
         </a>
     </li>
@@ -170,7 +170,7 @@ Github上的最新版下载：https://github.com/goagent/goagent/archive/3.0.zip
 </h2>
 <ul>
     <li>
-        <a href="https://github.com/dk9999/test/blob/ga/wiki/FAQ.md">
+        <a href="https://github.com/dk9999/test/tree/master/ga/wiki/FAQ.md">
             本站镜像页面
         </a>
     </li>
@@ -189,7 +189,7 @@ Github上的最新版下载：https://github.com/goagent/goagent/archive/3.0.zip
 </h2>
 <ul>
     <li>
-        <a href="https://github.com/dk9999/test/blob/ga/wiki/ConfigIntroduce.md">
+        <a href="https://github.com/dk9999/test/tree/master/ga/wiki/ConfigIntroduce.md">
             本站镜像页面
         </a>
     </li>
