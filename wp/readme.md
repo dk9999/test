@@ -4,13 +4,15 @@
 
 注：这是只是一个方便国内用户使用的镜像项目，由我个人copy。
 
-项目主页：https://github.com/dk9999/test
+本镜像项目的主页：https://github.com/dk9999/test
 
 本镜像的目的，是测试依附于Github的网络传播自由，并为无法访问google code的墙内朋友提供一个替代方案。
 
 wallproxy项目主页：https://code.google.com/p/wallproxy/
 
-<a href="https://github.com/dk9999/test/blob/wp/dl_wp.md">本镜像整理的wallproxy下载地址</a>
+wallproxy在github上的项目主页：https://github.com/wallproxy/wallproxy
+
+<a href="https://codeload.github.com/wallproxy/wallproxy/legacy.zip/win">Github上的wallproxy下载地址</a>
 
 
 =======================
