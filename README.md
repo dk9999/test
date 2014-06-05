@@ -10,6 +10,7 @@ github是这个理论的著名案例。全站强制HTTPS链接，因此在这里
   <a href="https://github.com/dk9999/test/blob/ga/README.md">goagent</a>是“使用Python编写的网络软件，可以运行在Windows/Mac/Linux/Android/iTouch/iPhone/iPad/webOS/OpenWRT/Maemo上”——作者语。事实上这个“网络软件”最常见的存在形态，就是基于谷歌GAE服务器的翻墙代理工具。许多项目都是在goagent的基础上建立起来的。
   <ul>
     <li>主页：<a href="https://github.com/dk9999/test/blob/ga/README.md">GoAgent镜像主页</a></li>
+    <li>下载：<a href="https://github.com/goagent/goagent/archive/3.0.zip">Github上的下载</a></li>
   </ul>
 
 <h2><a href="https://github.com/dk9999/test/blob/g_ag/README.md">greatagent2</a></h2>
@@ -17,6 +18,13 @@ github是这个理论的著名案例。全站强制HTTPS链接，因此在这里
   <ul>
     <li>主页：<a href="https://github.com/dk9999/test/blob/g_ag/README.md">greatagent2镜像主页</a></li>
     <li>下载：<a href="https://github.com/dk9999/test/blob/g_ag/README.md">greatagent2下载整理</a></li>
+  </ul>
+  
+  <h2><a href="https://github.com/dk9999/test/tree/master/wp">wallproxy</a></h2>
+  <a href="https://github.com/dk9999/test/tree/master/wp">wallproxy</a>是一个与goagent类似的翻墙代理，在某些方面表现更好。现在也内置有公共APPID。
+  <ul>
+    <li>主页：<a href="https://github.com/dk9999/test/tree/master/wp">wallproxy镜像主页</a></li>
+    <li>下载：<a href="https://codeload.github.com/wallproxy/wallproxy/legacy.zip/win">Github上的下载</a></li>
   </ul>
 
   
