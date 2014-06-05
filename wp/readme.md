@@ -14,6 +14,8 @@ wallproxy在github上的项目主页：https://github.com/wallproxy/wallproxy
 
 常见问答：https://github.com/dk9999/test/blob/master/wp/FAQ.md
 
+图文教程：https://github.com/dk9999/test/blob/master/wp/Tutorial2.md
+
 <a href="https://codeload.github.com/wallproxy/wallproxy/legacy.zip/win">Github上的wallproxy下载地址</a>
 
 
